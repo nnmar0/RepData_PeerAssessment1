@@ -29,7 +29,7 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 ```r
 # Settings and packages
 
-setwd(setwd("C:/Users/piejf/Desktop/COURSERA/Data Science Foundations using R Specialization/5 Reproducible Research/Week 2"))
+setwd(setwd("C:/Users/piejf/Desktop/COURSERA/Data Science Foundations using R Specialization/5 Reproducible Research/Week 2/Project"))
 
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, fig.width = 10, fig.height = 5,
                       fig.keep = 'all' ,fig.path = 'figures\ ', dev = 'png')
